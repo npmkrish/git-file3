@@ -25,7 +25,7 @@ git status
 
 
 
-Checking Status
+Checking Status #status
 git status
 git log
 git log --oneline
@@ -159,7 +159,7 @@ git clean -fd
 SSH Commands for GitHub
 ssh-keygen -t rsa -b 4096 -C "your@email.com"
 cat ~/.ssh/id_rsa.pub
-ssh -T git@github.com
+ssh -T git@github.com  
 
 
 
