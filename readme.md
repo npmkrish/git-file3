@@ -4,7 +4,7 @@ This project is created to practice basic Git and GitHub commands using files an
 
 ## Project Structure
 
-The project contains:
+The project contains: #content
 
 - `one/`
 - `two/`
