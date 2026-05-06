@@ -23,7 +23,7 @@ These files and folders are used for testing Git operations like add, commit, pu
 ```bash
 git status
 
-
+#check git.status.dot
 
 Checking Status #status
 git status
